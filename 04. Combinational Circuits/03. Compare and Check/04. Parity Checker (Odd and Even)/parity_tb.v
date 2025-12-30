@@ -1,0 +1,43 @@
+module parity_tb();
+reg [4:0] d;
+wire epc, opc;
+parity dut(.d(d),.epc(epc),.opc(opc));
+initial begin
+$monitor("Input=%b | Even Parity Checker=%b | Odd Parity Checker=%b | Time=%0t",d,epc,opc,$time);
+$dumpfile("paritygtk.vcd");
+$dumpvars(0);
+d=5'd0;#10;
+d=5'd1;#10;   
+d=5'd2;#10;   
+d=5'd3;#10;   
+d=5'd4;#10;   
+d=5'd5;#10;   
+d=5'd6;#10;   
+d=5'd7;#10;   
+d=5'd8;#10;   
+d=5'd9;#10;   
+d=5'd10;#10;   
+d=5'd11;#10;   
+d=5'd12;#10;   
+d=5'd13;#10;   
+d=5'd14;#10;   
+d=5'd15;#10;   
+d=5'd16;#10;   
+d=5'd17;#10;   
+d=5'd18;#10;   
+d=5'd19;#10;   
+d=5'd20;#10;   
+d=5'd21;#10;   
+d=5'd22;#10;   
+d=5'd23;#10;   
+d=5'd24;#10;   
+d=5'd25;#10;   
+d=5'd26;#10;   
+d=5'd27;#10;   
+d=5'd28;#10;   
+d=5'd29;#10;   
+d=5'd30;#10;   
+d=5'd31;#10;
+$finish;
+end
+endmodule   
