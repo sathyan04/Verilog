@@ -10,4 +10,5 @@ initial begin
 	rst=1;#10;rst=0;
 	#2000000000;
 	$finish;
+end
 endmodule
