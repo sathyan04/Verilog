@@ -8,5 +8,7 @@ initial begin
 end
 initial begin
 	rst=1;#20;rst=0;
+	#200000000000;
+	$finish;
 end
 endmodule
