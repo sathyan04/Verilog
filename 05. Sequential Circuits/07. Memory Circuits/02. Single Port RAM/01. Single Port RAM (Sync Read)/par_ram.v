@@ -11,6 +11,6 @@ always @(posedge clk) begin
 	if(rw) begin
 		memory[addr] <= indata; //Synchronous Write
 	end
-	outdata = memory[addr]; // Synchronous Write
+	outdata = memory[addr]; // Synchronous Read
 end
 endmodule
