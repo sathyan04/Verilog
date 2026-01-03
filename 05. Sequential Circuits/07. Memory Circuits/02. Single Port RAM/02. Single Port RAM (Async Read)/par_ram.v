@@ -12,7 +12,7 @@ always @(posedge clk) begin
 end
 always @(*) begin
 	if(!rw) begin
-		outdata = memory[addr]; // Asynchronous Write
+		outdata = memory[addr]; // Asynchronous Read
 	end
 end
 endmodule
