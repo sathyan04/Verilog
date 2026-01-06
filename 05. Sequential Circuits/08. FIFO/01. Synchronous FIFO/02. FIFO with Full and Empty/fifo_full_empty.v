@@ -9,8 +9,8 @@ reg [4:0] w_ptr, r_ptr;
 
 always @(posedge clk) begin
 	if(rst) begin
-		w_ptr=0;
-		r_ptr=0;
+		w_ptr<=0;
+		r_ptr<=0;
 	end
 	else begin
 		if (w_en && !full) begin
