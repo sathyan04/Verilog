@@ -9,24 +9,12 @@
   - [Prime Number](https://github.com/sathyan04/Verilog/tree/main/01.%20Mathematical%20Concepts/07.%20Prime%20Number)
   - [Sum of Natural Numbers](https://github.com/sathyan04/Verilog/tree/main/01.%20Mathematical%20Concepts/08.%20Sum%20Of%20Natural%20Numbers)
 
-## Combinational Circuits
-
-- **Multiplexers**
-  - [2x1 MUX](Combinational_Circuits/Multiplexers/2x1_MUX)
-  - [4x1 MUX](Combinational_Circuits/Multiplexers/4x1_MUX)
-  - [8x1 MUX](Combinational_Circuits/Multiplexers/8x1_MUX)
-  - [Hierarchical MUX Designs](Combinational_Circuits/Multiplexers/Hierarchical_MUX_Designs)
-
-- **Demultiplexers**
-  - General Mux
-    - [1x2 DEMUX](Combinational_Circuits/Demultiplexers/1x2_DEMUX)
-    - [1x4 DEMUX](Combinational_Circuits/Demultiplexers/1x4_DEMUX)
-    - [1x8 DEMUX](Combinational_Circuits/Demultiplexers/1x8_DEMUX)
-  - [Hierarchical DEMUX Designs](Combinational_Circuits/Demultiplexers/Hierarchical_DEMUX_Designs)
-
-- **Encoders**
-  - [4-to-2 Encoder](Combinational_Circuits/Encoders/Encoder_4_to_2)
-  - [Priority Encoder](Combinational_Circuits/Encoders/Priority_Encoder)
-
-- **Decoders**
-  - [Decoders](Combinational_Circuits/Decoders)
+### 02. Gate Logics
+  - [AND Gate](https://github.com/sathyan04/Verilog/tree/main/02.%20Gate%20Logics/01.%20AND%20gate)
+  - [OR Gate](https://github.com/sathyan04/Verilog/tree/main/02.%20Gate%20Logics/02.%20OR%20gate)
+  - [NOT Gate](https://github.com/sathyan04/Verilog/tree/main/02.%20Gate%20Logics/03.%20NOT%20gate)
+  - [NAND Gate](https://github.com/sathyan04/Verilog/tree/main/02.%20Gate%20Logics/04.%20NAND%20gate)
+  - [NOR Gate](https://github.com/sathyan04/Verilog/tree/main/02.%20Gate%20Logics/05.%20NOR%20gate)
+  - [XOR Gate](https://github.com/sathyan04/Verilog/tree/main/02.%20Gate%20Logics/06.%20XOR%20gate)
+  - [XNOR Gate](https://github.com/sathyan04/Verilog/tree/main/02.%20Gate%20Logics/07.%20XNOR%20gate)
+  - [Gate Logics (Gate Level Implementation)](https://github.com/sathyan04/Verilog/tree/main/02.%20Gate%20Logics/08.%20Gate%20Logics%20(Gate%20level%20implementation))
