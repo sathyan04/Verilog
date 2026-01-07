@@ -1,4 +1,4 @@
-# Verilog
+# **Verilog**
 ## Combinational Circuits
 
 - **Multiplexers**
