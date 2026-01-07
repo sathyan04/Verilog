@@ -1,5 +1,5 @@
 # Verilog
-### 01. Mathematical Concepts
+### [01. Mathematical Concepts](https://github.com/sathyan04/Verilog/tree/main/01.%20Mathematical%20Concepts/01.%20Armstrong%20Number%20Detector)
   - [Armstrong Number Detector](https://github.com/sathyan04/Verilog/tree/main/01.%20Mathematical%20Concepts/01.%20Armstrong%20Number%20Detector)
   - [Factorial](https://github.com/sathyan04/Verilog/tree/main/01.%20Mathematical%20Concepts/02.%20Factorial)
   - [Fibonacci](https://github.com/sathyan04/Verilog/tree/main/01.%20Mathematical%20Concepts/03.%20Fibonacci)
