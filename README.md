@@ -1,6 +1,6 @@
 # Verilog
 ### 01. Mathematical Concepts
-  - [Factorial](01. Mathematical Concepts/02. Factorial)
+  - [Factorial](Verilog/01. Mathematical Concepts/02. Factorial)
   - [4x1 MUX](Combinational_Circuits/Multiplexers/4x1_MUX)
   - [8x1 MUX](Combinational_Circuits/Multiplexers/8x1_MUX)
   - [Hierarchical MUX Designs](Combinational_Circuits/Multiplexers/Hierarchical_MUX_Designs)
