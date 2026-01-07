@@ -27,3 +27,8 @@
   - [CMOS NOR](https://github.com/sathyan04/Verilog/tree/main/03.%20Transistor%20Level%20Circuits/05.%20CMOS%20NOR)
   - [CMOS XOR](https://github.com/sathyan04/Verilog/tree/main/03.%20Transistor%20Level%20Circuits/06.%20CMOS%20XOR)
   - [CMOS XNOR](https://github.com/sathyan04/Verilog/tree/main/03.%20Transistor%20Level%20Circuits/07.%20CMOS%20XNOR)
+
+### 04. Combinational Circuits
+  - Arithmetic Circuits
+      - [Half Adder](https://github.com/sathyan04/Verilog/tree/main/04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/01.%20Half%20Adder)
+      - 
