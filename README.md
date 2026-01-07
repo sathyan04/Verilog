@@ -18,3 +18,12 @@
   - [XOR Gate](https://github.com/sathyan04/Verilog/tree/main/02.%20Gate%20Logics/06.%20XOR%20gate)
   - [XNOR Gate](https://github.com/sathyan04/Verilog/tree/main/02.%20Gate%20Logics/07.%20XNOR%20gate)
   - [Gate Logics (Gate Level Implementation)](https://github.com/sathyan04/Verilog/tree/main/02.%20Gate%20Logics/08.%20Gate%20Logics%20(Gate%20level%20implementation))
+
+### 03. Transistor Level Circuits
+  - [CMOS AND](https://github.com/sathyan04/Verilog/tree/main/03.%20Transistor%20Level%20Circuits/01.%20CMOS%20AND)
+  - [CMOS OR](https://github.com/sathyan04/Verilog/tree/main/03.%20Transistor%20Level%20Circuits/02.%20CMOS%20OR)
+  - [CMOS Inverter](https://github.com/sathyan04/Verilog/tree/main/03.%20Transistor%20Level%20Circuits/03.%20CMOS%20Inverter)
+  - [CMOS NAND](https://github.com/sathyan04/Verilog/tree/main/03.%20Transistor%20Level%20Circuits/04.%20CMOS%20NAND)
+  - [CMOS NOR](https://github.com/sathyan04/Verilog/tree/main/03.%20Transistor%20Level%20Circuits/05.%20CMOS%20NOR)
+  - [CMOS XOR](https://github.com/sathyan04/Verilog/tree/main/03.%20Transistor%20Level%20Circuits/06.%20CMOS%20XOR)
+  - [CMOS XNOR](https://github.com/sathyan04/Verilog/tree/main/03.%20Transistor%20Level%20Circuits/07.%20CMOS%20XNOR)
