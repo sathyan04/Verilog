@@ -1,4 +1,5 @@
-## 🔗 Combinational Circuits
+# Verilog
+## Combinational Circuits
 
 - **Multiplexers**
   - [2x1 MUX](Combinational_Circuits/Multiplexers/2x1_MUX)
