@@ -1,7 +1,7 @@
 # Verilog
 ### 01. Mathematical Concepts
+  - [Armstrong Number Detector](https://github.com/sathyan04/Verilog/tree/main/01.%20Mathematical%20Concepts/01.%20Armstrong%20Number%20Detector)
   - [Factorial](https://github.com/sathyan04/Verilog/tree/main/01.%20Mathematical%20Concepts/02.%20Factorial)
-  - [4x1 MUX]()
   - [8x1 MUX](Combinational_Circuits/Multiplexers/8x1_MUX)
   - [Hierarchical MUX Designs](Combinational_Circuits/Multiplexers/Hierarchical_MUX_Designs)
 
