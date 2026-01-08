@@ -34,7 +34,7 @@
 
 ### 04. Combinational Circuits
 
-  - Arithmetic Circuits
+  - #### Arithmetic Circuits
       - [Half Adder](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/01.%20Half%20Adder)
       - [Half Subtractor](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/02.%20Half%20Subtractor)
       - [Half Subtractor (Behavioral)](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/03.%20Half%20Subtractor%20(Behavioral))
@@ -59,7 +59,7 @@
   - Data Routing Circuits
   
     - Multiplexers
-      
+    
       - [Mux 2x1](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/01.%20Multiplexers/01.%20Mux%202x1)
       - [Mux 2x1 (if-else)](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/01.%20Multiplexers/02.%20Mux%202x1%20(if-else))
       - [Mux 4x1](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/01.%20Multiplexers/03.%20Mux%204x1)
