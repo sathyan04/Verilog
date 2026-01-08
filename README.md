@@ -1,5 +1,5 @@
-///Verilog
----
+#Verilog
+
 ### 01. Mathematical Concepts
   - [Armstrong Number Detector](01.%20Mathematical%20Concepts/01.%20Armstrong%20Number%20Detector)
   - [Factorial](01.%20Mathematical%20Concepts/02.%20Factorial)
