@@ -75,10 +75,10 @@
 
     - ### Demultiplexers
       
-      - [](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/02.%20Demultiplexers/01.%20Demux%201x2)
-      - [](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/02.%20Demultiplexers/02.%20Demux%201x4)
-      - [](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/02.%20Demultiplexers/03.%20Demux%201x4%20using%201x2)
-      - [](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/02.%20Demultiplexers/04.%20Demux%201x8)
-      - [](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/02.%20Demultiplexers/05.%20Demux%201x8%20using%201x4%20and%201x2)
-      - [](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/02.%20Demultiplexers/06.%20Demux%201x8%20using%201x2)
+      - [Demux  1x2](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/02.%20Demultiplexers/01.%20Demux%201x2)
+      - [Demux  1x4](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/02.%20Demultiplexers/02.%20Demux%201x4)
+      - [Demux  1x4  using  1x2](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/02.%20Demultiplexers/03.%20Demux%201x4%20using%201x2)
+      - [Demux  1x8](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/02.%20Demultiplexers/04.%20Demux%201x8)
+      - [Demux  1x8  using  1x4  and  1x2](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/02.%20Demultiplexers/05.%20Demux%201x8%20using%201x4%20and%201x2)
+      - [Demux  1x8  using  1x2](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/02.%20Demultiplexers/06.%20Demux%201x8%20using%201x2)
 
