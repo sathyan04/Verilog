@@ -89,3 +89,7 @@
       - [Encoder 16x4](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/03.%20Encoders/03.%20Encoder%2016x4)
       - [Priority Encoder (casex)](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/03.%20Encoders/04.%20Priority%20Encoder%20(case_x))
 
+    - ### Decoder
+      
+      -[Decoder 2x4](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/04.%20Decoders/01.%20Decoder%202to4)
+      -[Decoder 3x8 (for loop)](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/04.%20Decoders/02.%20Decoder%203to8%20(for%20loop))
