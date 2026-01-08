@@ -31,4 +31,21 @@
 ### 04. Combinational Circuits
   - Arithmetic Circuits
       - [Half Adder](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/01.%20Half%20Adder)
-      - 
+      - [Half Subtractor](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/02.%20Half%20Subtractor)
+      - [Half Subtractor (Behavioral)](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/03.%20Half%20Subtractor%20(Behavioral))
+      - [Full Adder](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/04.%20Full%20Adder)
+      - [Full Adder (Behavioral)](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/05.%20Full%20Adder%20(Behavioral))
+      - [Full Adder using Half Adders](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/06.%20Full%20Adder%20using%20Half%20Adders)
+      - [Full Adder using Half Adders (Behavioral)](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/07.%20Full%20Adder%20using%20Half%20Adders%20(Behavioral))
+      - [Full Subtractor](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/08.%20Full%20Subtractor)
+      - [Full Subtractor using Half Subtractors](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/09.%20Full%20Subtractor%20using%20Half%20Subtractors)
+      - [Full Subtractor using Half Subtractors (Behavioral)](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/10.%20Full%20Subtractor%20using%20Half%20Subtractors%20(Behavioral))
+      - [4-Bit Adder](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/11.%204%20-%20Bit%20Adder)
+      - [4-Bit Subtractor](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/12.%204%20-%20Bit%20Subtractor)
+      - [4-Bit Multiplier](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/13.%204%20-%20Bit%20Multiplier)
+      - [Ripple Carry Adder](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/14.%20Ripple%20Carry%20Adder)
+      - [Ripple Carry Adder (for loop)](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/15.%20Ripple%20Carry%20Adder%20(for%20loop))
+      - [Ripple Carry Adder (Structural)](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/16.%20Ripple%20Carry%20Adder%20(Structural))
+      - [Ripple Borrow Subtractor](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/17.%20Ripple%20Borrow%20Subtractor)
+      - [Binary Adder Subtractor](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/18.%20Binary%20Adder%20Subtractor)
+      - [Simple ALU](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/19.%20Simple%20ALU)
