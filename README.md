@@ -106,3 +106,9 @@
     - [Comparator (Two 4-bit values)](04.%20Combinational%20Circuits/03.%20Compare%20and%20Check/02.%20Comparator%20(Two%204-bit%20values))
     - [Parity Generator (Odd and Even)](04.%20Combinational%20Circuits/03.%20Compare%20and%20Check/03.%20Parity%20Generator%20(Odd%20and%20Even))
     - [Parity Checker (Odd and Even)](04.%20Combinational%20Circuits/03.%20Compare%20and%20Check/04.%20Parity%20Checker%20(Odd%20and%20Even))
+
+  - ### Code Converters
+
+    - [Binary to Gray](04.%20Combinational%20Circuits/04.%20Code%20Converters/01.%20Binary%20to%20Gray)
+    - [Gray to Binary](04.%20Combinational%20Circuits/04.%20Code%20Converters/02.%20Gray%20to%20Binary)
+    - [Binary to XS-3](04.%20Combinational%20Circuits/04.%20Code%20Converters/03.%20Binary%20to%20XS-3)
