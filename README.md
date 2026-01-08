@@ -82,7 +82,7 @@
       - [Demux  1x8  using  1x4  and  1x2](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/02.%20Demultiplexers/05.%20Demux%201x8%20using%201x4%20and%201x2)
       - [Demux  1x8  using  1x2](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/02.%20Demultiplexers/06.%20Demux%201x8%20using%201x2)
 
-    - ### Demultiplexers
+    - ### Encoder
 
       -[Encoder 4x2](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/03.%20Encoders/01.%20Encoder%204x2)
       -[Encoder 8x3](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/03.%20Encoders/02.%20Encoder%208x3)
