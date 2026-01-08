@@ -1,4 +1,5 @@
 # Verilog 
+
 ### 01. Mathematical Concepts
   - [Armstrong Number Detector](01.%20Mathematical%20Concepts/01.%20Armstrong%20Number%20Detector)
   - [Factorial](01.%20Mathematical%20Concepts/02.%20Factorial)
@@ -8,6 +9,7 @@
   - [Perfect Number Detection](01.%20Mathematical%20Concepts/06.%20Perfect%20Number%20Detection)
   - [Prime Number](01.%20Mathematical%20Concepts/07.%20Prime%20Number)
   - [Sum of Natural Numbers](01.%20Mathematical%20Concepts/08.%20Sum%20Of%20Natural%20Numbers)
+
 
 ### 02. Gate Logics
   - [AND Gate](02.%20Gate%20Logics/01.%20AND%20gate)
@@ -19,6 +21,7 @@
   - [XNOR Gate](02.%20Gate%20Logics/07.%20XNOR%20gate)
   - [Gate Logics (Gate Level Implementation)](02.%20Gate%20Logics/08.%20Gate%20Logics%20(Gate%20level%20implementation))
 
+
 ### 03. Transistor Level Circuits
   - [CMOS AND](03.%20Transistor%20Level%20Circuits/01.%20CMOS%20AND)
   - [CMOS OR](03.%20Transistor%20Level%20Circuits/02.%20CMOS%20OR)
@@ -28,7 +31,9 @@
   - [CMOS XOR](03.%20Transistor%20Level%20Circuits/06.%20CMOS%20XOR)
   - [CMOS XNOR](03.%20Transistor%20Level%20Circuits/07.%20CMOS%20XNOR)
 
+
 ### 04. Combinational Circuits
+
   - Arithmetic Circuits
       - [Half Adder](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/01.%20Half%20Adder)
       - [Half Subtractor](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/02.%20Half%20Subtractor)
@@ -49,7 +54,9 @@
       - [Ripple Borrow Subtractor](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/17.%20Ripple%20Borrow%20Subtractor)
       - [Binary Adder Subtractor](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/18.%20Binary%20Adder%20Subtractor)
       - [Simple ALU](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/19.%20Simple%20ALU)
+  
   - Data Routing Circuits
+  
     - Multiplexers
       - [Mux 2x1](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/01.%20Multiplexers/01.%20Mux%202x1)
       - [Mux 2x1 (if-else)](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/01.%20Multiplexers/02.%20Mux%202x1%20(if-else))
@@ -61,5 +68,6 @@
       - [Mux 8x1 using 2x1](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/01.%20Multiplexers/08.%20Mux%208x1%20using%202x1)
       - [Mux 16x1 (case)](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/01.%20Multiplexers/09.%20Mux%2016x1%20(case))
       - [Mux (Part Select)](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/01.%20Multiplexers/10.%20Mux%20(Part%20Select))
+    
       - [Half Adder using Mux](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/01.%20Multiplexers/11.%20Half%20Adder%20using%20Mux)
       - [XOR Gate using Mux2x1](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/01.%20Multiplexers/12.%20XOR%20Gate%20using%20Mux2x1)      
