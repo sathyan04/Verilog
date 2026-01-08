@@ -56,9 +56,9 @@
       - [Simple ALU](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/19.%20Simple%20ALU)
 
   
-  - Data Routing Circuits
+  - #### Data Routing Circuits
   
-    - Multiplexers
+    - #### Multiplexers
     
       - [Mux 2x1](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/01.%20Multiplexers/01.%20Mux%202x1)
       - [Mux 2x1 (if-else)](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/01.%20Multiplexers/02.%20Mux%202x1%20(if-else))
