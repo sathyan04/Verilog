@@ -91,5 +91,5 @@
 
     - ### Decoder
       
-      -[Decoder 2x4](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/04.%20Decoders/01.%20Decoder%202to4)
-      -[Decoder 3x8 (for loop)](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/04.%20Decoders/02.%20Decoder%203to8%20(for%20loop))
+      - [Decoder 2x4](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/04.%20Decoders/01.%20Decoder%202to4)
+      - [Decoder 3x8 (for loop)](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/04.%20Decoders/02.%20Decoder%203to8%20(for%20loop))
