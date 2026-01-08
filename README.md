@@ -71,4 +71,14 @@
       - [Mux 16x1 (case)](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/01.%20Multiplexers/09.%20Mux%2016x1%20(case))
       - [Mux (Part Select)](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/01.%20Multiplexers/10.%20Mux%20(Part%20Select))
       - [Half Adder using Mux](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/01.%20Multiplexers/11.%20Half%20Adder%20using%20Mux)
-      - [XOR Gate using Mux2x1](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/01.%20Multiplexers/12.%20XOR%20Gate%20using%20Mux2x1)      
+      - [XOR Gate using Mux2x1](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/01.%20Multiplexers/12.%20XOR%20Gate%20using%20Mux2x1)
+
+    - ### Demultiplexers
+      
+      - [](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/02.%20Demultiplexers/01.%20Demux%201x2)
+      - [](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/02.%20Demultiplexers/02.%20Demux%201x4)
+      - [](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/02.%20Demultiplexers/03.%20Demux%201x4%20using%201x2)
+      - [](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/02.%20Demultiplexers/04.%20Demux%201x8)
+      - [](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/02.%20Demultiplexers/05.%20Demux%201x8%20using%201x4%20and%201x2)
+      - [](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/02.%20Demultiplexers/06.%20Demux%201x8%20using%201x2)
+
