@@ -8,7 +8,7 @@
   - [Perfect Number Detection](01.%20Mathematical%20Concepts/06.%20Perfect%20Number%20Detection)
   - [Prime Number](01.%20Mathematical%20Concepts/07.%20Prime%20Number)
   - [Sum of Natural Numbers](01.%20Mathematical%20Concepts/08.%20Sum%20Of%20Natural%20Numbers)
-
+---
 ### 02. Gate Logics
   - [AND Gate](02.%20Gate%20Logics/01.%20AND%20gate)
   - [OR Gate](02.%20Gate%20Logics/02.%20OR%20gate)
