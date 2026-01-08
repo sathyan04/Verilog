@@ -30,5 +30,5 @@
 
 ### 04. Combinational Circuits
   - Arithmetic Circuits
-      - [Half Adder](https://github.com/sathyan04/Verilog/tree/main/04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/01.%20Half%20Adder)
+      - [Half Adder](04.%20Combinational%20Circuits/01.%20Arithmetic%20Circuits/01.%20Half%20Adder)
       - 
