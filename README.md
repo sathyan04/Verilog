@@ -114,3 +114,12 @@
     - [Binary to XS-3](04.%20Combinational%20Circuits/04.%20Code%20Converters/03.%20Binary%20to%20XS-3)
 
 ## 05. Sequential Circuits
+
+  - ### Latches
+
+    - [SR latch using NOR](05.%20Sequential%20Circuits/01.%20Latches/01.%20SR%20latch%20using%20NOR)
+    - [SR latch using NAND](05.%20Sequential%20Circuits/01.%20Latches/02.%20SR%20latch%20using%20NAND)
+    - [Gated SR Latch](05.%20Sequential%20Circuits/01.%20Latches/03.%20Gated%20SR%20Latch)
+    - [D Latch](05.%20Sequential%20Circuits/01.%20Latches/04.%20D%20Latch)
+    - [JK Latch](05.%20Sequential%20Circuits/01.%20Latches/05.%20JK%20Latch)
+    - [t Latch](05.%20Sequential%20Circuits/01.%20Latches/06.%20T%20Latch)
