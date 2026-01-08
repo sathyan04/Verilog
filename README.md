@@ -82,14 +82,20 @@
       - [Demux  1x8  using  1x4  and  1x2](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/02.%20Demultiplexers/05.%20Demux%201x8%20using%201x4%20and%201x2)
       - [Demux  1x8  using  1x2](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/02.%20Demultiplexers/06.%20Demux%201x8%20using%201x2)
 
-    - ### Encoder
+    - ### Encoders
 
       - [Encoder 4x2](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/03.%20Encoders/01.%20Encoder%204x2)
       - [Encoder 8x3](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/03.%20Encoders/02.%20Encoder%208x3)
       - [Encoder 16x4](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/03.%20Encoders/03.%20Encoder%2016x4)
       - [Priority Encoder (casex)](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/03.%20Encoders/04.%20Priority%20Encoder%20(case_x))
 
-    - ### Decoder
+    - ### Decoders
       
       - [Decoder 2x4](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/04.%20Decoders/01.%20Decoder%202to4)
       - [Decoder 3x8 (for loop)](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/04.%20Decoders/02.%20Decoder%203to8%20(for%20loop))
+
+    - ### Shifters
+      
+      - [Simple Shifter (Bi-directional)](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/05.%20Shifters/01.%20Simple%20Shifter%20(Bidrectional))
+      - [Rotator Circuit (Bi-directional)](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/05.%20Shifters/02.%20Rotator%20Circuit%20(Bidirectional))
+      - [Barrel Shifter](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/05.%20Shifters/03.%20Barrel%20Shifter)
