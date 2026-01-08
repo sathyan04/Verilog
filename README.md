@@ -88,3 +88,7 @@
       -[Encoder 8x3](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/03.%20Encoders/02.%20Encoder%208x3)
       -[Encoder 16x4](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/03.%20Encoders/03.%20Encoder%2016x4)
       -[Priority Encoder (casex)](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/03.%20Encoders/04.%20Priority%20Encoder%20(case_x))
+
+
+
+      
