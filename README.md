@@ -122,4 +122,4 @@
     - [Gated SR Latch](05.%20Sequential%20Circuits/01.%20Latches/03.%20Gated%20SR%20Latch)
     - [D Latch](05.%20Sequential%20Circuits/01.%20Latches/04.%20D%20Latch)
     - [JK Latch](05.%20Sequential%20Circuits/01.%20Latches/05.%20JK%20Latch)
-    - [t Latch](05.%20Sequential%20Circuits/01.%20Latches/06.%20T%20Latch)
+    - [T Latch](05.%20Sequential%20Circuits/01.%20Latches/06.%20T%20Latch)
