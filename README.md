@@ -99,3 +99,10 @@
       - [Simple Shifter (Bi-directional)](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/05.%20Shifters/01.%20Simple%20Shifter%20(Bidrectional))
       - [Rotator Circuit (Bi-directional)](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/05.%20Shifters/02.%20Rotator%20Circuit%20(Bidirectional))
       - [Barrel Shifter](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/05.%20Shifters/03.%20Barrel%20Shifter)
+
+  - ### Compare and Check
+
+    - [Bitwise Comparator](04.%20Combinational%20Circuits/03.%20Compare%20and%20Check/01.%20Bitwise%20Comparator)
+    - [Comparator (Two 4-bit values)](04.%20Combinational%20Circuits/03.%20Compare%20and%20Check/02.%20Comparator%20(Two%204-bit%20values))
+    - [Parity Generator (Odd and Even)](04.%20Combinational%20Circuits/03.%20Compare%20and%20Check/03.%20Parity%20Generator%20(Odd%20and%20Even))
+    - [Parity Checker (Odd and Even)](04.%20Combinational%20Circuits/03.%20Compare%20and%20Check/04.%20Parity%20Checker%20(Odd%20and%20Even))
