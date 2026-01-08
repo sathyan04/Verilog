@@ -112,3 +112,5 @@
     - [Binary to Gray](04.%20Combinational%20Circuits/04.%20Code%20Converters/01.%20Binary%20to%20Gray)
     - [Gray to Binary](04.%20Combinational%20Circuits/04.%20Code%20Converters/02.%20Gray%20to%20Binary)
     - [Binary to XS-3](04.%20Combinational%20Circuits/04.%20Code%20Converters/03.%20Binary%20to%20XS-3)
+
+## 05. Sequential Circuits
