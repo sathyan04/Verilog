@@ -68,6 +68,5 @@
       - [Mux 8x1 using 2x1](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/01.%20Multiplexers/08.%20Mux%208x1%20using%202x1)
       - [Mux 16x1 (case)](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/01.%20Multiplexers/09.%20Mux%2016x1%20(case))
       - [Mux (Part Select)](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/01.%20Multiplexers/10.%20Mux%20(Part%20Select))
-    
       - [Half Adder using Mux](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/01.%20Multiplexers/11.%20Half%20Adder%20using%20Mux)
       - [XOR Gate using Mux2x1](04.%20Combinational%20Circuits/02.%20Data%20Routing%20Circuits/01.%20Multiplexers/12.%20XOR%20Gate%20using%20Mux2x1)      
