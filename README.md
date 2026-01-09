@@ -165,3 +165,23 @@
         - [SR FLip-Flop](05.%20Sequential%20Circuits/02.%20Flip-Flops/03.%20Flip-Flop%20Conversions/04.%20Using%20T%20Flip-Flop/01.%20SR%20Flip-Flop%20Using%20T%20Flip-Flop)
         - [D FLip-Flop](05.%20Sequential%20Circuits/02.%20Flip-Flops/03.%20Flip-Flop%20Conversions/04.%20Using%20T%20Flip-Flop/02.%20D%20Flip-Flop%20Using%20T%20Flip-Flop)
         - [JK FLip-Flop](05.%20Sequential%20Circuits/02.%20Flip-Flops/03.%20Flip-Flop%20Conversions/04.%20Using%20T%20Flip-Flop/03.%20JK%20Flip-Flop%20Using%20T%20Flip-Flop)
+
+  - ### Registers
+
+    - [N-Bit Register](05.%20Sequential%20Circuits/03.%20Registers/01.%20N-bit%20Register)
+    - ### Shift Registers
+      
+      - [SISO](05.%20Sequential%20Circuits/03.%20Registers/02.%20Shift%20Registers/01.%20SIS0)
+      - [SIPO](05.%20Sequential%20Circuits/03.%20Registers/02.%20Shift%20Registers/02.%20SIP0)
+      - [PISO](05.%20Sequential%20Circuits/03.%20Registers/02.%20Shift%20Registers/03.%20PIS0)
+      - [PIPO](05.%20Sequential%20Circuits/03.%20Registers/02.%20Shift%20Registers/04.%20PIP0)
+
+    - ### Advanced Shift Registers
+
+      - ### Bi-directional Shift Registers
+
+        - [BSR SISO](05.%20Sequential%20Circuits/03.%20Registers/03.%20Advanced%20Shift%20Registers/01.%20Bidirectional%20Shift%20Registers/01.%20BSR%20SISO)
+        - [BSR SIPO](05.%20Sequential%20Circuits/03.%20Registers/03.%20Advanced%20Shift%20Registers/01.%20Bidirectional%20Shift%20Registers/02.%20BSR%20SIPO)
+        - [BSR PISO](05.%20Sequential%20Circuits/03.%20Registers/03.%20Advanced%20Shift%20Registers/01.%20Bidirectional%20Shift%20Registers/03.%20BSR%20PISO)
+
+      - [Universal Shift Register](05.%20Sequential%20Circuits/03.%20Registers/03.%20Advanced%20Shift%20Registers/02.%20Universal%20Shift%20Register)
