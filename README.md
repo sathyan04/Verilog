@@ -134,7 +134,34 @@
       - [T Flip-Flop](05.%20Sequential%20Circuits/02.%20Flip-Flops/01.%20Individual%20Flip-Flops/04.%20T%20Flip-Flop)
 
     - ### Master Slave Flip-Flops
+      
       - [SR Flip-Flop](05.%20Sequential%20Circuits/02.%20Flip-Flops/02.%20Master%20Slave%20Flip-Flops/01.%20MS%20SR%20Flip-Flop)
       - [D Flip-Flop](05.%20Sequential%20Circuits/02.%20Flip-Flops/02.%20Master%20Slave%20Flip-Flops/02.%20MS%20D%20Flip-Flop)
       - [JK Flip-Flop](05.%20Sequential%20Circuits/02.%20Flip-Flops/02.%20Master%20Slave%20Flip-Flops/03.%20MS%20JK%20Flip-Flop)
       - [T Flip-Flop](05.%20Sequential%20Circuits/02.%20Flip-Flops/02.%20Master%20Slave%20Flip-Flops/04.%20MS%20T%20Flip-Flop)
+     
+    - ### Flip-Flop Conversions
+
+      - ### Using SR Flip-Flop
+        
+        - [D Flip-Flop](05.%20Sequential%20Circuits/02.%20Flip-Flops/03.%20Flip-Flop%20Conversions/01.%20Using%20SR%20Flip-Flop/01.%20D%20Flip-Flop%20Using%20SR%20Flip-Flop)
+        - [JK Flip-Flop](05.%20Sequential%20Circuits/02.%20Flip-Flops/03.%20Flip-Flop%20Conversions/01.%20Using%20SR%20Flip-Flop/02.%20JK%20Flip-Flop%20Using%20SR%20Flip-Flop)
+        - [T Flip-Flop](05.%20Sequential%20Circuits/02.%20Flip-Flops/03.%20Flip-Flop%20Conversions/01.%20Using%20SR%20Flip-Flop/03.%20T%20Flip-Flop%20Using%20SR%20Flip-Flop)
+
+      - ### Using D Flip-Flop
+
+        - [SR Flip-Flop](05.%20Sequential%20Circuits/02.%20Flip-Flops/03.%20Flip-Flop%20Conversions/02.%20Using%20D%20Flip-Flop/01.%20SR%20Flip-Flop%20Using%20D%20Flip-Flop)
+        - [JK Flip-Flop](05.%20Sequential%20Circuits/02.%20Flip-Flops/03.%20Flip-Flop%20Conversions/02.%20Using%20D%20Flip-Flop/02.%20JK%20Flip-Flop%20Using%20D%20Flip-Flop)
+        - [T Flip-Flop](05.%20Sequential%20Circuits/02.%20Flip-Flops/03.%20Flip-Flop%20Conversions/02.%20Using%20D%20Flip-Flop/03.%20T%20Flip-Flop%20Using%20D%20Flip-Flop)
+
+      - ### Using JK Flip-Flop
+
+        - [SR Flip-Flop](05.%20Sequential%20Circuits/02.%20Flip-Flops/03.%20Flip-Flop%20Conversions/03.%20Using%20JK%20Flip-Flop/01.%20SR%20Flip-Flop%20Using%20JK%20Flip-Flop)
+        - [D Flip-Flop](05.%20Sequential%20Circuits/02.%20Flip-Flops/03.%20Flip-Flop%20Conversions/03.%20Using%20JK%20Flip-Flop/02.%20D%20Flip-Flop%20Using%20JK%20Flip-Flop)
+        - [T Flip-Flop](05.%20Sequential%20Circuits/02.%20Flip-Flops/03.%20Flip-Flop%20Conversions/03.%20Using%20JK%20Flip-Flop/03.%20T%20Flip-Flop%20Using%20JK%20Flip-Flop)
+
+      - ### Using T Flip-Flop
+
+        - [SR FLip-Flop](05.%20Sequential%20Circuits/02.%20Flip-Flops/03.%20Flip-Flop%20Conversions/04.%20Using%20T%20Flip-Flop/01.%20SR%20Flip-Flop%20Using%20T%20Flip-Flop)
+        - [D FLip-Flop](05.%20Sequential%20Circuits/02.%20Flip-Flops/03.%20Flip-Flop%20Conversions/04.%20Using%20T%20Flip-Flop/02.%20D%20Flip-Flop%20Using%20T%20Flip-Flop)
+        - [JK FLip-Flop](05.%20Sequential%20Circuits/02.%20Flip-Flops/03.%20Flip-Flop%20Conversions/04.%20Using%20T%20Flip-Flop/03.%20JK%20Flip-Flop%20Using%20T%20Flip-Flop)
