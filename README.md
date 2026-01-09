@@ -185,3 +185,34 @@
         - [BSR PISO](05.%20Sequential%20Circuits/03.%20Registers/03.%20Advanced%20Shift%20Registers/01.%20Bidirectional%20Shift%20Registers/03.%20BSR%20PISO)
 
       - [Universal Shift Register](05.%20Sequential%20Circuits/03.%20Registers/03.%20Advanced%20Shift%20Registers/02.%20Universal%20Shift%20Register)
+
+  - ### Counters
+
+    - ### Asynchronous Counters
+
+      - ### Up Counters
+
+        - [Negedge Up Counter](05.%20Sequential%20Circuits/04.%20Counters/01.%20Asynchronous%20Counters/01.%20Up%20Counters/01.%20Negedge%20Up%20Counter)
+        - [Posedge Up Counter](05.%20Sequential%20Circuits/04.%20Counters/01.%20Asynchronous%20Counters/01.%20Up%20Counters/02.%20Posedge%20Up%20Counter)
+
+      - ### Down Counters
+
+        - [Negedge Down Counter](05.%20Sequential%20Circuits/04.%20Counters/01.%20Asynchronous%20Counters/02.%20Down%20Counters/01.%20Negedge%20Down%20Counter)
+        - [Posedge Down Counter](05.%20Sequential%20Circuits/04.%20Counters/01.%20Asynchronous%20Counters/02.%20Down%20Counters/02.%20Posedge%20Down%20Counter)
+       
+      - [Generalized Up Down Counter](05.%20Sequential%20Circuits/04.%20Counters/01.%20Asynchronous%20Counters/03.%20Up%20Down%20Counter)
+     
+      - ### MOD-N Counters
+
+        - [MOD-5 Counter](05.%20Sequential%20Circuits/04.%20Counters/01.%20Asynchronous%20Counters/04.%20MOD-N%20Counters/01.%20MOD-5%20Counter)
+        - [MOD-10 (BCD) Counter](05.%20Sequential%20Circuits/04.%20Counters/01.%20Asynchronous%20Counters/04.%20MOD-N%20Counters/02.%20MOD-10%20(BCD%20Counter))
+       
+    - ### Synchronous Counters
+
+      - [Up Counter](05.%20Sequential%20Circuits/04.%20Counters/02.%20Synchronous%20Counters/01.%20Up%20Counter)
+      - [Down Counter](05.%20Sequential%20Circuits/04.%20Counters/02.%20Synchronous%20Counters/02.%20Down%20Counter)
+      - [Up Down Counter (Parameterized)](05.%20Sequential%20Circuits/04.%20Counters/02.%20Synchronous%20Counters/03.%20Up%20Down%20Counter%20(Parameterized))
+      - [MOD-N Counter (Parameterized)](05.%20Sequential%20Circuits/04.%20Counters/02.%20Synchronous%20Counters/04.%20MOD-N%20Counter%20(Parameterized))
+
+    - [Ring Counter](05.%20Sequential%20Circuits/04.%20Counters/03.%20Ring%20Counter)
+    - [Johnson Counter](05.%20Sequential%20Circuits/04.%20Counters/04.%20Johnson%20Counter)
