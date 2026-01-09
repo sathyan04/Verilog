@@ -172,9 +172,9 @@
     - ### Shift Registers
       
       - [SISO](05.%20Sequential%20Circuits/03.%20Registers/02.%20Shift%20Registers/01.%20SIS0)
-      - [SIPO](05.%20Sequential%20Circuits/03.%20Registers/02.%20Shift%20Registers/02.%20SIP0)
-      - [PISO](05.%20Sequential%20Circuits/03.%20Registers/02.%20Shift%20Registers/03.%20PIS0)
-      - [PIPO](05.%20Sequential%20Circuits/03.%20Registers/02.%20Shift%20Registers/04.%20PIP0)
+      - [SIPO](05.%20Sequential%20Circuits/03.%20Registers/02.%20Shift%20Registers/02.%20SIPO)
+      - [PISO](05.%20Sequential%20Circuits/03.%20Registers/02.%20Shift%20Registers/03.%20PISO)
+      - [PIPO](05.%20Sequential%20Circuits/03.%20Registers/02.%20Shift%20Registers/04.%20PIPO)
 
     - ### Advanced Shift Registers
 
