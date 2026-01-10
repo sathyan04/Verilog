@@ -259,3 +259,19 @@
     - ### Controller Circuits
 
       - [Traffic Light Controller](05.%20Sequential%20Circuits/05.%20FSM/03.%20Controller%20Circuits/01.%20Traffic%20Light%20Controller)
+
+  - ### Clocking and Timing Circuits
+
+    - ### Clock Divider
+
+      - [Clock Divider By 2](05.%20Sequential%20Circuits/06.%20Clock%20and%20Timing%20Circuits/01.%20Clock%20Divider/01.%20Clock%20Divider%20By%202)
+      - [Clock Divider By 4](05.%20Sequential%20Circuits/06.%20Clock%20and%20Timing%20Circuits/01.%20Clock%20Divider/02.%20Clock%20Divider%20By%204)
+      - [Even Clock Divider (Parameterized)](05.%20Sequential%20Circuits/06.%20Clock%20and%20Timing%20Circuits/01.%20Clock%20Divider/03.%20Even%20Clock%20Divider%20(Parameterized))
+      - [Clock Divider By 3](05.%20Sequential%20Circuits/06.%20Clock%20and%20Timing%20Circuits/01.%20Clock%20Divider/04.%20Clock%20Divider%20By%203)
+      - [Clock Divider By 5](05.%20Sequential%20Circuits/06.%20Clock%20and%20Timing%20Circuits/01.%20Clock%20Divider/05.%20Clock%20Divider%20By%205)
+      - [Odd Clock Divider (Parameterized)](05.%20Sequential%20Circuits/06.%20Clock%20and%20Timing%20Circuits/01.%20Clock%20Divider/06.%20Odd%20Clock%20Divider%20(Parameterized))
+      - [Generalized Clock Divider Circuit](05.%20Sequential%20Circuits/06.%20Clock%20and%20Timing%20Circuits/01.%20Clock%20Divider/07.%20Generalized%20Clock%20Divider%20Circuit)
+      - [Driving 1Hz clock using 50MHz clock](05.%20Sequential%20Circuits/06.%20Clock%20and%20Timing%20Circuits/01.%20Clock%20Divider/08.%20Driving%201Hz%20clock%20using%2050MHz%20clock)
+      - [Driving 100Hz clock using 50MHz clock](05.%20Sequential%20Circuits/06.%20Clock%20and%20Timing%20Circuits/01.%20Clock%20Divider/09.%20Driving%20100Hz%20clock%20using%2050MHz%20clock)
+
+ 
