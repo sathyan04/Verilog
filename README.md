@@ -216,3 +216,46 @@
 
     - [Ring Counter](05.%20Sequential%20Circuits/04.%20Counters/03.%20Ring%20Counter)
     - [Johnson Counter](05.%20Sequential%20Circuits/04.%20Counters/04.%20Johnson%20Counter)
+
+  - ### FSM
+
+    - ### Sequence Detection
+
+      - ### Moore Model Machines
+
+        - ### Overlapping Moore Machines
+        
+          - [1011](05.%20Sequential%20Circuits/05.%20FSM/01.%20Sequence%20Detection/01.%20Moore%20Model%20Machines/01.%20Overlapping%20Moore%20Machines/01.%201011%20Sequence%20Detection)
+          - [10011](05.%20Sequential%20Circuits/05.%20FSM/01.%20Sequence%20Detection/01.%20Moore%20Model%20Machines/01.%20Overlapping%20Moore%20Machines/02.%2010011%20Sequence%20Detection)
+         
+        - ### Non-Overlapping Moore Machines
+
+          - [101](05.%20Sequential%20Circuits/05.%20FSM/01.%20Sequence%20Detection/01.%20Moore%20Model%20Machines/02.%20Non-Overlapping%20Moore%20Machines/01.%20101%20Sequence%20Detection)
+          - [1101](05.%20Sequential%20Circuits/05.%20FSM/01.%20Sequence%20Detection/01.%20Moore%20Model%20Machines/02.%20Non-Overlapping%20Moore%20Machines/02.%201101%20Sequence%20Detection)
+
+      - ### Mealy Model Machines
+
+        - ### Overlapping Mealy Machines
+        
+          - [101](05.%20Sequential%20Circuits/05.%20FSM/01.%20Sequence%20Detection/02.%20Mealy%20Model%20Machines/01.%20Overlapping%20Mealy%20Machines/01.%20101%20Sequence%20Detection)
+          - [1010](05.%20Sequential%20Circuits/05.%20FSM/01.%20Sequence%20Detection/02.%20Mealy%20Model%20Machines/01.%20Overlapping%20Mealy%20Machines/02.%201010%20Sequence%20Detection)
+         
+        - ### Non-Overlapping Mealy Machines
+
+          - [101](05.%20Sequential%20Circuits/05.%20FSM/01.%20Sequence%20Detection/02.%20Mealy%20Model%20Machines/02.%20Non-Overlapping%20Mealy%20Machines/01.%20101%20Sequence%20Detection)
+          - [1010](05.%20Sequential%20Circuits/05.%20FSM/01.%20Sequence%20Detection/02.%20Mealy%20Model%20Machines/02.%20Non-Overlapping%20Mealy%20Machines/02.%201010%20Sequence%20Detection)
+
+      - ### Generic Sequence Detectors
+
+        - [Sequence 101](05.%20Sequential%20Circuits/05.%20FSM/01.%20Sequence%20Detection/03.%20Generic%20Sequence%20Detectors/01.%20Sequence%20101)
+        - [Sequence 1101](05.%20Sequential%20Circuits/05.%20FSM/01.%20Sequence%20Detection/03.%20Generic%20Sequence%20Detectors/02.%20Sequence%201101)
+        - [Sequence 10101](05.%20Sequential%20Circuits/05.%20FSM/01.%20Sequence%20Detection/03.%20Generic%20Sequence%20Detectors/03.%20Sequence%2010101)
+
+    - ### Pattern Detection
+
+      - [Moore Overlapping Pattern](05.%20Sequential%20Circuits/05.%20FSM/02.%20Pattern%20Detection/01.%20Moore%20Overlapping%20Pattern)
+      - [Mealy Non-Overlapping Pattern](05.%20Sequential%20Circuits/05.%20FSM/02.%20Pattern%20Detection/02.%20Mealy%20Non-Overlapping%20Pattern)
+
+    - ### Controller Circuits
+
+      - [Traffic Light Controller](05.%20Sequential%20Circuits/05.%20FSM/03.%20Controller%20Circuits/01.%20Traffic%20Light%20Controller)
