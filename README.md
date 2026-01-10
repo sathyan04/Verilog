@@ -274,4 +274,19 @@
       - [Driving 1Hz clock using 50MHz clock](05.%20Sequential%20Circuits/06.%20Clock%20and%20Timing%20Circuits/01.%20Clock%20Divider/08.%20Driving%201Hz%20clock%20using%2050MHz%20clock)
       - [Driving 100Hz clock using 50MHz clock](05.%20Sequential%20Circuits/06.%20Clock%20and%20Timing%20Circuits/01.%20Clock%20Divider/09.%20Driving%20100Hz%20clock%20using%2050MHz%20clock)
 
- 
+  - ### Memory Circuits
+
+    - ### Simple RAM
+
+      - [RAM with Synchronous Read](05.%20Sequential%20Circuits/07.%20Memory%20Circuits/01.%20Simple%20RAM/01.%20RAM%20-%20Synchronous%20Read)
+      - [RAM with Asynchronous Read](05.%20Sequential%20Circuits/07.%20Memory%20Circuits/01.%20Simple%20RAM/02.%20RAM%20-%20Asynchronous%20Read)
+        
+    - ### Single Port RAM
+
+      - [Synchronous Read Single Port RAM](05.%20Sequential%20Circuits/07.%20Memory%20Circuits/02.%20Single%20Port%20RAM/01.%20Single%20Port%20RAM%20(Sync%20Read))
+      - [Asynchronous Read Single Port RAM](05.%20Sequential%20Circuits/07.%20Memory%20Circuits/02.%20Single%20Port%20RAM/02.%20Single%20Port%20RAM%20(Async%20Read))
+        
+    - ### Dual Port RAM
+
+      - [Simple Dual Port RAM](05.%20Sequential%20Circuits/07.%20Memory%20Circuits/03.%20Dual%20Port%20RAM/01.%20Simple%20Dual%20Port%20RAM)
+      - [True Dual Port RAM](05.%20Sequential%20Circuits/07.%20Memory%20Circuits/03.%20Dual%20Port%20RAM/02.%20True%20Dual%20Port%20RAM)
