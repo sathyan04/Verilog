@@ -290,3 +290,11 @@
 
       - [Simple Dual Port RAM](05.%20Sequential%20Circuits/07.%20Memory%20Circuits/03.%20Dual%20Port%20RAM/01.%20Simple%20Dual%20Port%20RAM)
       - [True Dual Port RAM](05.%20Sequential%20Circuits/07.%20Memory%20Circuits/03.%20Dual%20Port%20RAM/02.%20True%20Dual%20Port%20RAM)
+
+  - ### FIFO
+
+    - ### Synchronous FIFO
+
+      - [Basic FIFO](05.%20Sequential%20Circuits/08.%20FIFO/01.%20Synchronous%20FIFO/01.%20Basic%20FIFO)
+      - [FIFO with Full and Empty](05.%20Sequential%20Circuits/08.%20FIFO/01.%20Synchronous%20FIFO/02.%20FIFO%20with%20Full%20and%20Empty)
+      - [FIFO with parameterized inputs](05.%20Sequential%20Circuits/08.%20FIFO/01.%20Synchronous%20FIFO/03.%20FIFO%20with%20parameterized%20inputs)
