@@ -298,3 +298,15 @@
       - [Basic FIFO](05.%20Sequential%20Circuits/08.%20FIFO/01.%20Synchronous%20FIFO/01.%20Basic%20FIFO)
       - [FIFO with Full and Empty](05.%20Sequential%20Circuits/08.%20FIFO/01.%20Synchronous%20FIFO/02.%20FIFO%20with%20Full%20and%20Empty)
       - [FIFO with parameterized inputs](05.%20Sequential%20Circuits/08.%20FIFO/01.%20Synchronous%20FIFO/03.%20FIFO%20with%20parameterized%20inputs)
+
+## 07. Verilog Test QnA
+
+  - [LED Blinking with Clock Divider](07.%20Verilog%20Test%20QnA/01.%20LED%20Blinking%20with%20Clock%20Divider)
+  - [LED Shifting](07.%20Verilog%20Test%20QnA/02.%20LED%20Shifting)
+  - [Ripple Carry Adder using genvar](07.%20Verilog%20Test%20QnA/03.%20Ripple%20Carry%20Adder%20using%20genvar)
+  - [Parameterized Full Adder](07.%20Verilog%20Test%20QnA/04.%20Parameterized%20Full%20Adder)
+  - [Clock Divider](07.%20Verilog%20Test%20QnA/05.%20Clock%20Divider)
+  - [Priority Encoder 8 to 3](07.%20Verilog%20Test%20QnA/06.%20Priority%20Encoder%208%20to%203)
+  - [Pattern Printing](07.%20Verilog%20Test%20QnA/08.%20Pattern%20Printing)
+  - [Overlapping FSM](07.%20Verilog%20Test%20QnA/09.%20Overlapping%20FSM)
+  - [Sequence 10110](07.%20Verilog%20Test%20QnA/10.%20Sequence%2010110)
