@@ -1,0 +1,37 @@
+module moore_non_overlapping_tb();
+reg clk,rst,data;
+wire detected;
+moore_non_overlap dut(.clk(clk),.rst(rst),.data(data),.detected(detected));
+initial begin
+	clk=0;
+	forever #5 clk=~clk;
+end
+initial begin
+	$dumpfile("sequencegtk.vcd");
+	$dumpvars(0);
+	rst=1;data=0;#10;rst=0;
+	data=1;#10;
+	data=1;#10;
+	data=0;#10;
+	data=1;#10;
+	data=1;#10;
+        data=0;#10;
+	data=1;#10;
+	data=1;#10;
+        data=0;#10;
+	data=1;#10;
+	data=1;#10;
+        data=0;#10;
+	data=1;#10;
+	data=1;#10;
+        data=0;#10;
+	data=1;#10;
+	data=1;#10;
+        data=0;#10;
+	$finish;
+end
+always@(posedge clk) begin
+	if(!rst)
+		$display("Data=%b | Output=%b",data, detected);
+end
+endmodule
