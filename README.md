@@ -235,7 +235,8 @@
         - [Mealy Overlapping](05.%20Sequential%20Circuits/05.%20FSM/01.%20Sequence%20Detection/02.%20Sequence%201101/03.%20Mealy%20Overlapping)
         - [Mealy Non Overlapping](05.%20Sequential%20Circuits/05.%20FSM/01.%20Sequence%20Detection/02.%20Sequence%201101/04.%20Mealy%20Non%20Overlapping)
 
-      
+      - [Sequence 10101 (Generic)](05.%20Sequential%20Circuits/05.%20FSM/01.%20Sequence%20Detection/03.%20Sequence%2010101%20(Generic))
+        
     - ### Pattern Detection
 
       - [Moore Overlapping Pattern](05.%20Sequential%20Circuits/05.%20FSM/02.%20Pattern%20Detection/01.%20Moore%20Overlapping%20Pattern)
