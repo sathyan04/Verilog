@@ -1,11 +1,14 @@
-module mealy_non_overlapping_tb();
+module mealy_overlapping_tb();
+
 reg clk,rst,data;
 wire detected;
-mealy dut(.clk(clk),.rst(rst),.data(data),.detected(detected));
+mealy_overlap dut(.clk(clk),.rst(rst),.data(data),.detected(detected));
+
 initial begin
 	clk=0;
 	forever #5 clk=~clk;
 end
+
 initial begin
 	$dumpfile("mealygtk.vcd");
 	$dumpvars(0);
@@ -36,5 +39,5 @@ end
 always @(posedge clk && rst==0) begin
 	$display("Data=%b | Detection=%b",data,detected);
 end
-endmodule
 
+endmodule
