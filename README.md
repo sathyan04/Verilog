@@ -286,6 +286,9 @@
       - [FIFO with parameterized inputs](05.%20Sequential%20Circuits/08.%20FIFO/01.%20Synchronous%20FIFO/03.%20FIFO%20with%20parameterized%20inputs)
 
     - [Asynchronous FIFO](05.%20Sequential%20Circuits/08.%20FIFO/02.%20Asynchronous%20FIFO)
+  
+  - [Sequential ALU](05.%20Sequential%20Circuits/09.%20Sequential%20ALU)
+  
 ## 07. Verilog Test QnA
 
   - [LED Blinking with Clock Divider](07.%20Verilog%20Test%20QnA/01.%20LED%20Blinking%20with%20Clock%20Divider)
