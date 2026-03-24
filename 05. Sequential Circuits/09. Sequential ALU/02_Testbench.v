@@ -1,48 +1,52 @@
 module testbench ();
   
   parameter data_width = 4;
-  parameter op_size = 2;
-  reg clk,rst;
-  reg [op_size-1:0] op;
-  reg [data_width-1:0] a,b;
+  reg clk; 
+  reg rst;
+  reg [3] op;
+  reg [data_width-1:0] a; 
+  reg [data_width-1:0] b;
   wire [data_width-1:0] out;
-  wire z, c, n, v, b;
+  //Flags
+  wire zero;
+  wire carry; 
+  wire negative;
+  wire overflow; 
+  wire borrow; 
+  wire parity;  
   
-  seq_alu #(
-    .data_width(data_width),
-    .op_size(op_size)) 
-  dut(
+  seq_alu #(.data_width(data_width)) dut(
     .clk(clk),
     .rst(rst),
     .op(op),
     .a(a),
     .b(b),
-    .y(y),
-    .z(z),
-    .c(c),
-    .n(n),
-    .v(v),
-    .b(b)
+    .out(out),
+    .zero(zero),
+    .carry(carry),
+    .negative(negative),
+    .overflow(overflow),
+    .borrow(borrow),
+    .parity(parity)
 );
   
   initial begin
-    clk = 0;
-    forever #5 clk = ~clk;
+    clk = 1;
+    forever #10 clk = ~clk;
   end
   
   initial begin
-    rst=1;#10;
+    rst=1;#20;
     rst=0;
-    a=$random; b=$random; op=0; #10;
-    a=$random; b=$random; op=1; #10;
-    $finish;
-  end
   
-  always @(posedge clk) begin
-    if(!rst) begin
-      $strobe("\tOp_Code=%0d | A=%0d | B=%0d | Y=%0d | Time=%0t |\t",op, a, b, y, $time);
-      $strobe("\tFlags: Zero=%0d | Negative=%0d | Carry=%0d | Borrow=%0d | Overflow=%0d |\t",z,n,c,b,o);
+    for(integer i=0; i<=7; i++) begin
+      a=$random; b=$random; op=i;
+      @(posedge clk);
+      #5;
+      $display("\n\t| Stimuli	:	Op_Code = %d | A =%d | B =%d | Out =%d | Time = %0t |\t\n\t| Flags		:	Zero =%0b | Negative = %0b | Carry = %0b | Borrow = %0b | Overflow = %0b | Parity = %s |\t\n",op, a, b, out, $time, zero, negative, carry, borrow, overflow, parity ? "Even" : "Odd");
     end
+    
+    $finish;
   end
   
 endmodule
