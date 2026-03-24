@@ -43,7 +43,7 @@ module testbench ();
       a=$random; b=$random; op=i;
       @(posedge clk);
       #5;
-      $display("\n\t| Stimuli	:	Op_Code = %d | A =%d | B =%d | Out =%d | Time = %0t |\t\n\t| Flags		:	Zero =%0b | Negative = %0b | Carry = %0b | Borrow = %0b | Overflow = %0b | Parity = %s |\t\n",op, a, b, out, $time, zero, negative, carry, borrow, overflow, parity ? "Even" : "Odd");
+      $display("\n\t| Stimuli	:	Op_Code = %d | A =%d | B =%d | Out =%d | Time = %0t |\t\n\t| Flags		:	Zero = %0b | Negative = %0b | Carry = %0b | Borrow = %0b | Overflow = %0b | Parity = %s |\t\n",op, a, b, out, $time, zero, negative, carry, borrow, overflow, parity ? "Even" : "Odd");
     end
     
     $finish;
